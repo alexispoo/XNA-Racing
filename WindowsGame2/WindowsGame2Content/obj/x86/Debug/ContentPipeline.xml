@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\Black_viper.png</Source>
+      <Name>images\Black_viper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\images\Black_viper.xnb</Output>
+      <Time>2016-12-10T22:30:24.702-08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\part1.png</Source>
+      <Name>images\part1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\images\part1.xnb</Output>
+      <Time>2016-12-11T00:45:28.186375-08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\part2.png</Source>
+      <Name>images\part2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\images\part2.xnb</Output>
+      <Time>2016-12-11T00:45:28.217625-08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\part3.png</Source>
+      <Name>images\part3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\images\part3.xnb</Output>
+      <Time>2016-12-11T00:45:28.202-08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\part4.png</Source>
+      <Name>images\part4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\images\part4.xnb</Output>
+      <Time>2016-12-11T12:20:48.12325-08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\rock.png</Source>
+      <Name>images\rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\images\rock.xnb</Output>
+      <Time>2016-12-11T02:48:50.1395-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-11-05T17:17:32.4810649-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
