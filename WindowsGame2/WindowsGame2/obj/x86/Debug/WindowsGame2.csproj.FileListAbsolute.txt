@@ -10,3 +10,13 @@ C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Windows
 C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\images\part3.xnb
 C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\images\part4.xnb
 C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\images\rock.xnb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Musica\Sound_1.xnb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Musica\Sound_1.wma
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Musica\musica 8.xnb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Musica\musica 8.wma
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Musica\algodon.xnb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Musica\algodon.wma
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Musica\pat.xnb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont3.xnb

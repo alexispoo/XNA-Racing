@@ -8,7 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\images\Black_viper.xnb</Output>
-      <Time>2016-12-10T22:30:24.702-08:00</Time>
+      <Time>2016-12-12T02:47:02.6875-08:00</Time>
     </Item>
     <Item>
       <Source>images\part1.png</Source>
@@ -54,6 +54,72 @@
       <Options>None</Options>
       <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\images\rock.xnb</Output>
       <Time>2016-12-11T02:48:50.1395-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2016-12-12T13:09:21.54025-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\Sound_1.mp3</Source>
+      <Name>Musica\Sound_1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Musica\Sound_1.xnb</Output>
+      <Extra>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Musica\Sound_1.wma</Extra>
+      <Time>2016-12-12T13:24:23.634-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\musica 8.mp3</Source>
+      <Name>Musica\musica 8</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Musica\musica 8.xnb</Output>
+      <Extra>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Musica\musica 8.wma</Extra>
+      <Time>2016-12-12T13:31:49.555875-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\algodon.mp3</Source>
+      <Name>Musica\algodon</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Musica\algodon.xnb</Output>
+      <Extra>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Musica\algodon.wma</Extra>
+      <Time>2016-12-12T13:34:05.337125-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2016-12-12T17:52:09.586375-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Musica\pat.wav</Source>
+      <Name>Musica\pat</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Musica\pat.xnb</Output>
+      <Time>2016-12-12T17:36:46.6645-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont3.spritefont</Source>
+      <Name>SpriteFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont3.xnb</Output>
+      <Time>2016-12-12T17:49:38.32075-08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
