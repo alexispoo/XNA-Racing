@@ -269,9 +269,9 @@ namespace WindowsGame2
                         Random r = new Random();
                         nexth = r.Next(0, 600);
                         nextw = r.Next(100, 700);
-                        rockw = r.Next(35, 200);
-                        rockh = r.Next(35, 200);
-                        Hitbox = new Rectangle(r.Next(0, 600), r.Next(100, 700), rockw, rockh);
+                        rockw = r.Next(35, 260);
+                        rockh = r.Next(35, 260);
+                        Hitbox = new Rectangle(r.Next(0, 600), r.Next(0, 800), rockw, rockh);
                         timer = starts;
                     }
                 }
